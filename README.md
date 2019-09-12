@@ -1,2 +1,3 @@
 # azuresubscriptionsmanagementgroups
-Powershell script to move subcriptions into management groups
+
+Powershell script to move Azure subcriptions into management groups
